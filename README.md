@@ -9,7 +9,7 @@ This project aims to create a simplified marine navigation route planner for aut
 - **Search Algorithms:** Implements various AI search algorithms to find efficient routes for the ferry agent.
 
 ## Practical Requirements
-The practical details can be found [here](link-to-your-specific-practical-requirements).
+The practical details can be found in the CS5011-A1.pdf file.
 
 ## Usage
 ### Basic Ferry Agent
